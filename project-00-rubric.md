@@ -1,5 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECT RUBRIC
-**Unit 1 Project #1: Create a Game | WDI** 	 						
+**Unit 1 Project 00: Personal Portfolio | WDI** 	 						
 
 This project is assessed using the following standards, as defined by the course syllabus and WDI's workflow:
 
