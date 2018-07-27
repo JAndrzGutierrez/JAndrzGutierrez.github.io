@@ -40,6 +40,7 @@ Your work must:
 - A carousel whose images slide to the side on a timer, along with indicators that the user can click to navigate to a particular project.
 
 	![](readme-assets/carousel.gif)
+	- Use the internet to find great carousels! [BootStrap Version](https://getbootstrap.com/docs/4.0/components/carousel/) [Materialize Version](https://materializecss.com/carousel.html)
 
 - Functionality that allows a carousel image to enlarge in a lightbox when the user clicks on it. Clicking anywhere on the screen when the lightbox is open should close the lightbox.
 
