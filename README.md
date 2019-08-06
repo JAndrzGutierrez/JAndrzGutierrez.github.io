@@ -56,9 +56,6 @@ Your work must:
 
 - Remember that you should customize the design of the site and make it your own. Here's a guideline for what the site could look like:
 
-![](readme-assets/desktop.png)
-
-![](readme-assets/mobile.png)
 
 - A working site, built by you, hosted on Surge.
 
