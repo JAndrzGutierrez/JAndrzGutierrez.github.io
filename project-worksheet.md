@@ -24,7 +24,7 @@ Use this section to describe your final project and perhaps any links to relevan
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
 
-## MOSW Map
+## MOSCOW Map
 
 Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
 
