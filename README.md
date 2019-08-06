@@ -21,6 +21,7 @@ Your work must:
 - Stick with the KISS (Keep It Simple Stupid) and DRY (Don't Repeat Yourself) principles.
 - Use JavaScript for DOM manipulation.
 - Be deployed and accessible online. 
+- Must pull in projects via API call from google sheet (lecture 
 
 
 ---
@@ -61,6 +62,25 @@ Your work must:
 
 ---
 
+## Portfolio Samples
+
+Check out portfoliios that look awesome and emulate the parts that speak to you. Here are some that we like but you should google around and find stuff you're into.
+
+ - [denisechandler.com](http://www.denisechandler.com/)
+
+ - [mattfarely.ca](http://mattfarley.ca/)
+
+ - [sebkay.com](http://sebkay.com/)
+
+ - [imdev.in](https://imdev.in/)
+
+ - [helloaileen.com](http://helloaileen.com)
+
+ - [lianapenn.com](https://www.lianapenn.com/)
+ 
+ - [ga profiles](https://profiles.generalassemb.ly/profiles)
+
+
 #### Starter Code
 
 No starter code has been provided for this project, as you will be building your site from scratch. As an option, you can use the [HTML5 Boilerplate](https://html5boilerplate.com/) as a template to get started.
@@ -98,7 +118,6 @@ If you're looking for an extra challenge, try tackling some of the tasks below:
 
 - JavaScript
 	- [Eloquent JavaScript Textbook](http://eloquentjavascript.net/)
-	- [30 Days to Learn jQuery](https://code.tutsplus.com/courses/30-days-to-learn-jquery)
 	- [JavaScript Timers](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)
 	- [Codecademy — Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
 
