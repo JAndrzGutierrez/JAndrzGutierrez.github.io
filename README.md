@@ -16,35 +16,31 @@ Your work must:
 
 - Use semantic markup for HTML and CSS, adhering to best practices.
 - Use Flexbox to create a multi-column layout.
-- Be completely responsive.
-- Include separate HTML/CSS /JavaScript files.
+- Must be responsive for mobile, tablet and desktop
+- Include at least one HTML, one CSS and one JavaScript files.
 - Stick with the KISS (Keep It Simple Stupid) and DRY (Don't Repeat Yourself) principles.
-- Use JavaScript or jQuery for DOM manipulation.
-- Be deployed and accessible online. (Justin will cover this on Monday)
+- Use JavaScript for DOM manipulation.
+- Be deployed and accessible online. 
 
 
 ---
 
 #### Necessary Deliverables
 
-- A working site, built by you, hosted somewhere on the internet.
-- A Git repository, hosted on your personal GitHub, that includes a link to your hosted site and frequent commits dating back to the beginning of the project.
-- A `README.md` file with explanations of:
+- An About, Projects, Contact form
+- A Git repository, hosted on your personal GitHub, that includes a link to your hosted site
+- Repo must contain frequent commits (min 15+) dating back to the beginning of the project.
+- A `README.md` file with the following:
+  - Link to wireframe images
   - Technologies used.
   - Your process/approach.
   - Unsolved problems.
   - Your biggest wins and challenges.
 - Screenshots of the snippets of code you used to solve particularly interesting problems (think code highlights).
 - An in-class demo of the site that shows off the interactions you worked on.
-
 - A carousel whose images slide to the side on a timer, along with indicators that the user can click to navigate to a particular project.
 
-	![](readme-assets/carousel.gif)
 	- Use the internet to find great carousels! [BootStrap Version](https://getbootstrap.com/docs/4.0/components/carousel/) [Materialize Version](https://materializecss.com/carousel.html)
-
-- Functionality that allows a carousel image to enlarge in a lightbox when the user clicks on it. Clicking anywhere on the screen when the lightbox is open should close the lightbox.
-
-	![](readme-assets/lightbox.gif)
 
 - Nav bar functionality that allows the page to scroll smoothly to the correspending section when a nav item is clicked.
 
@@ -53,10 +49,6 @@ Your work must:
 - Nav bar functionality that highlights a nav item when the user scrolls to the corresponding section of the page.
 
 	![](readme-assets/nav-highlight.gif)
-
-- A testimonials section in which testimonials rotate in and out on a timer.
-
-	![](readme-assets/testimonials.gif)
 
 - A mobile nav that expands and collapses when a user clicks on the hamburger icon.
 
@@ -67,6 +59,8 @@ Your work must:
 ![](readme-assets/desktop.png)
 
 ![](readme-assets/mobile.png)
+
+- A working site, built by you, hosted on Surge.
 
 ---
 
@@ -91,7 +85,9 @@ If you're looking for an extra challenge, try tackling some of the tasks below:
 * Add validation to the contact form to make sure the user has filled out all required fields before submitting.
 * Add a skills section featuring skills you have/will have learned in the class.
 * Add functionality so that the carousel works with swiping on an iPad/iPhone.
-* Utilize an API.
+* Functionality that allows a carousel image to enlarge in a lightbox when the user clicks on it. Clicking anywhere on the screen when the lightbox is open should close the lightbox.
+
+	![](readme-assets/lightbox.gif)
 
 ---
 #### Need More Review?
