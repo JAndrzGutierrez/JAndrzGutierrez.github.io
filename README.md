@@ -27,7 +27,6 @@ Your work must:
 ---
 
 #### Necessary Deliverables
-
 - An About, Projects, Contact form
 - A Git repository, hosted on your personal GitHub, that includes a link to your hosted site
 - Repo must contain frequent commits (min 15+) dating back to the beginning of the project.
@@ -61,6 +60,9 @@ Your work must:
 - A working site, built by you, hosted on Surge.
 
 ---
+## Medium Article
+
+Three days after completing your project, please hand in a 500 word Medium article talking about the process of creating your portfolio, and the technologies used for it. In addition, talk about wins, struggles, and a code snippet for an interesting piece of code (with explanation & comments). These will be sent to your Career Coach for further review before being posted. They will reach out to you individually post-completion.
 
 ## Portfolio Samples
 
