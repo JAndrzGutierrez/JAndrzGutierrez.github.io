@@ -81,6 +81,16 @@ Check out portfoliios that look awesome and emulate the parts that speak to you.
  - [ga profiles](https://profiles.generalassemb.ly/profiles)
 
 
+### Finding Good Portfolio Sites To Emulate - 10 min
+
+Search and compare at least 3 profile web sites.  Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site. 
+
+Link To Site  | One Thing I'd Like To Incorporate
+| ------------- | ------------- |
+| [http://www.denisechandler.com/](http://www.denisechandler.com/)| initial animation\drawing on page load
+|[jkeohan.com](jkeohan.com) | mouseover on a project triggers animations |
+| [http://mattfarley.ca/](http://mattfarley.ca/) |  layout of the projects
+
 #### Starter Code
 
 No starter code has been provided for this project, as you will be building your site from scratch. As an option, you can use the [HTML5 Boilerplate](https://html5boilerplate.com/) as a template to get started.
