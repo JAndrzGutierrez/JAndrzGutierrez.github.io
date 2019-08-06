@@ -105,34 +105,4 @@ If you're looking for an extra challenge, try tackling some of the tasks below:
 ***
 
 ---
-#### Project Feedback + Evaluation
 
-Based on the requirements above, you can earn a maximum of **24** points on this project. Your instructors will score each of your technical requirements using the scale below:
-
-
-|      | Incomplete | Does not Meet Expectations |  Meets Expecatations | Exceeds Expectations |
-|--- |---| --- | ---| --- |
-| Uses semantic markup for HTML and CSS, adhering to best practices |     |    |     |     |
-| Uses Flexbox to create a multi-column layout |     |    |     |     |  
-| Is completely responsive |     |    |     |     |
-| Includes separate HTML/CSS/JavaScript files |     |    |     |     |  
-| Sticks with the KISS (Keep It Simple Stupid) and DRY (Don't Repeat Yourself) principles |     |    |     |     |
-| Uses JavaScript or jQuery for DOM manipulation |     |    |     |     |  
-| Includes the interactions listed under "Necessary Deliverables" |     |    |     |     |
-| Is deployed online |     |    |     |     |
-
-This will serve as a helpful overall gauge of whether or not you've met the project goals. It can also help you identify where to focus your efforts for the next project!
-
-
-#### Project Grade
-
-Based on the requirements above, you can earn a maximum of **24** points on this project. Your instructors will score each of your technical requirements using the scale below:
-
-
-
-| Score | Expectations               |
-|-------|----------------------------|
-| 0     | _Incomplete_                 |
-| 1     | _Does Not Meet Expectations_ |
-| 2     | _Meets Expectations_         |
-| 3     | _Exceeds Expectations_       |
