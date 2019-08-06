@@ -12,7 +12,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Day 4| MVP & Bug Fixes | Incomplete
-|Day 5| Final Touches
+|Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
 
 
@@ -24,7 +24,7 @@ Use this section to describe your final project and perhaps any links to relevan
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
 
-## Priority Matrix
+## MOSW Map
 
 Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
 
@@ -32,30 +32,20 @@ Include a full list of features that have been prioritized based on the `Time an
 
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
-#### MVP 
+#### MVP (examples)
 
-- Find and use external api 
+- Pull data using google json api
 - Render data on page 
 - Allow user to choose favorites 
 - Save their choices in firebase
 
 #### PostMVP 
 
-- Add user auth
+- Anything else that is not MVP
 
 ## Functional Components
 
 Based on the initial logic defined in the previous sections try and breakdown the logic further into functional components, and by that we mean functions.  Try and capture what logic would need to be defined if the game was broken down into the following categories.
-
-### Landing Page
-
-### Game Initialization
-
-### Playing The Game 
-
-### Winning The Game
-
-### Resetting The Game
 
 Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe.
 
