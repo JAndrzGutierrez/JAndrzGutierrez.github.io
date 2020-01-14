@@ -68,6 +68,8 @@ Three days after completing your project, please hand in a 500 word Medium artic
 
 Check out portfoliios that look awesome and emulate the parts that speak to you. Here are some that we like but you should google around and find stuff you're into.
 
+
+
  - [denisechandler.com](http://www.denisechandler.com/)
 
  - [mattfarely.ca](http://mattfarley.ca/)
@@ -75,6 +77,8 @@ Check out portfoliios that look awesome and emulate the parts that speak to you.
  - [sebkay.com](http://sebkay.com/)
 
  - [imdev.in](https://imdev.in/)
+ 
+ ### Previous SEI Students
 
  - [helloaileen.com](http://helloaileen.com)
 
