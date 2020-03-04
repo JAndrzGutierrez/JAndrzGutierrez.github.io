@@ -75,6 +75,8 @@ Check out portfoliios that look awesome and emulate the parts that speak to you.
  ### Previous SEI Students
 
  - [helloaileen.com](http://helloaileen.com)
+ 
+ - [eloise-ress-barrow.surge.sh/](http://eloise-ress-barrow.surge.sh/#writing)
 
  - [lianapenn.com](https://www.lianapenn.com/)
  
