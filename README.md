@@ -44,15 +44,9 @@ Your work must:
 
 - Nav bar functionality that allows the page to scroll smoothly to the correspending section when a nav item is clicked.
 
-	![](readme-assets/smooth-scroll.gif)
-
 - Nav bar functionality that highlights a nav item when the user scrolls to the corresponding section of the page.
 
-	![](readme-assets/nav-highlight.gif)
-
 - A mobile nav that expands and collapses when a user clicks on the hamburger icon.
-
-	![](readme-assets/mobile-nav.gif)
 
 - Remember that you should customize the design of the site and make it your own. Here's a guideline for what the site could look like:
 
