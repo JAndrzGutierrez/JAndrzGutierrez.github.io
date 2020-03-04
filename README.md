@@ -82,6 +82,8 @@ Check out portfoliios that look awesome and emulate the parts that speak to you.
  
  - [andrewhollingworth.com/](http://andrewhollingworth.com/)
  
+ - [jessicalandzberg.github.io/](9https://jessicalandzberg.github.io/Unit_1_Project/#myJourney0)
+ 
  - [ga profiles](https://profiles.generalassemb.ly/profiles)
 
 
