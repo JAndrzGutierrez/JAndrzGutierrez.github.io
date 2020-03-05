@@ -28,41 +28,17 @@ Your work must:
 
 #### Necessary Deliverables
 - An About, Projects, Contact form
-- A Git repository, hosted on your personal GitHub, that includes a link to your hosted site
+- Site must be created using a "mobile first" approach. 
+- A Git repository, hosted on your personal GitHub, that includes a link to your hosted site. Site url should be in the form of githubusername.github.io.  Read more on setting up [github pages](https://pages.github.com/)
 - Repo must contain frequent commits (min 15+) dating back to the beginning of the project.
-- A `README.md` file with the following:
-  - Link to wireframe images
-  - Technologies used.
-  - Your process/approach.
-  - Unsolved problems.
-  - Your biggest wins and challenges.
-- Screenshots of the snippets of code you used to solve particularly interesting problems (think code highlights).
+- An updated project workshheet will all sections filled out accordingly.
 - An in-class demo of the site that shows off the interactions you worked on.
-- A carousel whose images slide to the side on a timer, along with indicators that the user can click to navigate to a particular project.
-
-	- Use the internet to find great carousels! [BootStrap Version](https://getbootstrap.com/docs/4.0/components/carousel/) [Materialize Version](https://materializecss.com/carousel.html)
-
 - Nav bar functionality that allows the page to scroll smoothly to the correspending section when a nav item is clicked.
-
-- Nav bar functionality that highlights a nav item when the user scrolls to the corresponding section of the page.
-
 - A mobile nav that expands and collapses when a user clicks on the hamburger icon.
-
-- Remember that you should customize the design of the site and make it your own. Here's a guideline for what the site could look like:
-
-
-- A working site, built by you, hosted on Surge.
-
----
-## Medium Article
-
-Three days after completing your project, please hand in a 500 word Medium article talking about the process of creating your portfolio, and the technologies used for it. In addition, talk about wins, struggles, and a code snippet for an interesting piece of code (with explanation & comments). These will be sent to your Career Coach for further review before being posted. They will reach out to you individually post-completion.
 
 ## Portfolio Samples
 
 Check out portfoliios that look awesome and emulate the parts that speak to you. Here are some that we like but you should google around and find stuff you're into.
-
-
 
  - [denisechandler.com](http://www.denisechandler.com/)
 
@@ -93,8 +69,8 @@ Check out portfoliios that look awesome and emulate the parts that speak to you.
 
 Search and compare at least 3 profile web sites.  Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site. 
 
-Link To Site  | One Thing I'd Like To Incorporate
-| ------------- | ------------- |
+Link To Site  | One Thing I'd Like To Incorporate | Initial Research On That Item
+| ------------- | ------------- | ------------- |
 | [http://www.denisechandler.com/](http://www.denisechandler.com/)| initial animation\drawing on page load
 |[jkeohan.com](jkeohan.com) | mouseover on a project triggers animations |
 | [http://mattfarley.ca/](http://mattfarley.ca/) |  layout of the projects
@@ -119,10 +95,7 @@ If you're looking for an extra challenge, try tackling some of the tasks below:
 
 * Add validation to the contact form to make sure the user has filled out all required fields before submitting.
 * Add a skills section featuring skills you have/will have learned in the class.
-* Add functionality so that the carousel works with swiping on an iPad/iPhone.
-* Functionality that allows a carousel image to enlarge in a lightbox when the user clicks on it. Clicking anywhere on the screen when the lightbox is open should close the lightbox.
-
-	![](readme-assets/lightbox.gif)
+* Add a carousel 
 
 ---
 #### Need More Review?
