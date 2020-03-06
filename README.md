@@ -98,21 +98,23 @@ If you're looking for an extra challenge, try tackling some of the tasks below:
 * Add a carousel 
 
 ---
+
+#### Additional Resources
+
+- Joe's [FEWD Trello Board](https://trello.com/b/yqrvugBk/lectures)
+- Joe's YouTube 3 Part Sereis on [jQuery Top Nav Animation On Scroll](https://www.youtube.com/watch?v=mRsF-a3qFZE&t=176s)
+
+
 #### Need More Review?
 
 
 - HTML/CSS
-	- [Codecademy — Learn HTML/CSS](https://www.codecademy.com/learn/learn-html-css)
 	- [Practice CSS Selectors with CSS Diner](https://flukeout.github.io/)
 	- [Flexbox Froggy](http://flexboxfroggy.com/)
 
 
 - JavaScript
-	- [Eloquent JavaScript Textbook](http://eloquentjavascript.net/)
 	- [JavaScript Timers](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)
-	- [Codecademy — Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
-
-***
 
 ---
 
