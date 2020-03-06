@@ -20,9 +20,13 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 
+## Google Sheet
+
+Include link to your google sheet here.
+
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
+Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
 ## Time/Priority Matrix 
 
@@ -73,9 +77,6 @@ function reverse(string) {
 	// here is the code to reverse a string of text
 }
 ```
-
-## Change Log
- Use this section to document what changes were made and the reasoning behind those changes.  
 
 ## Issues and Resolutions
  Use this section to list of all major issues encountered and their resolution.
