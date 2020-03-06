@@ -22,7 +22,7 @@ Use this section to describe your final project and perhaps any links to relevan
 
 ## Google Sheet
 
-Include link to your google sheet here.
+Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
 
 ## Wireframes
 
