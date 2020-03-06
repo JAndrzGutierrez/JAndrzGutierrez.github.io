@@ -15,25 +15,21 @@ You will be working individually for this project, but we'll be guiding you thro
 Your work must:
 
 - Use semantic markup for HTML and CSS, adhering to best practices.
-- Use Flexbox to create a multi-column layout.
-- Must be responsive for mobile, tablet and desktop
-- Include at least one HTML, one CSS and one JavaScript files.
-- Stick with the KISS (Keep It Simple Stupid) and DRY (Don't Repeat Yourself) principles.
-- Use JavaScript for DOM manipulation.
-- Be deployed and accessible online. 
-- Must pull in projects via API call from google sheet (lecture 
-
-
+- Use CSS GRID to create a multi-column layout.
+- Use Flexbox for content
+- Must be mobile mobile first, then tablet and desktop responsive.
+- Must pull in projects via API call from google sheet 
+- Be deployed and accessible online either via Github Pages or Surge. 
 ---
 
 #### Necessary Deliverables
-- An About, Projects, Contact form
+
+- An About, Projects, Contact form 
 - Site must be created using a "mobile first" approach. 
-- A Git repository, hosted on your personal GitHub, that includes a link to your hosted site. Site url should be in the form of githubusername.github.io.  Read more on setting up [github pages](https://pages.github.com/)
+- A Git repository, hosted on your personal GitHub, that includes a link to your hosted site. Site url should be in the form of githubusername.github.io. 
 - Repo must contain frequent commits (min 15+) dating back to the beginning of the project.
-- An updated project workshheet will all sections filled out accordingly.
+- An updated project workshheet will all sections filled out accordingly. 
 - An in-class demo of the site that shows off the interactions you worked on.
-- Nav bar functionality that allows the page to scroll smoothly to the correspending section when a nav item is clicked.
 - A mobile nav that expands and collapses when a user clicks on the hamburger icon.
 
 ## Portfolio Samples
