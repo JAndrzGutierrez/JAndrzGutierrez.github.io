@@ -83,6 +83,12 @@ No starter code has been provided for this project, as you will be building your
 - **Write pseudocode before you write any JavaScript code.** Planning out and thinking through interactions for a website is an important step that will save you time and effort when you start actually coding.
 - Do not simply copy and paste code that you find online! It is OK (and highly encouraged) to use resources like Stack Overflow when thinking through interactions, but use these sites as a guide and then write the code on your own.
 
+#### Front End Frameworks
+
+Try exploring these front end frameworks:
+
+- [https://materializecss.com/](https://materializecss.com/)
+- [https://getbootstrap.com/](https://getbootstrap.com/)
 
 ---
 #### Hungry For More?
