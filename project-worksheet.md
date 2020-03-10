@@ -62,11 +62,35 @@ Based on the initial logic defined in the previous sections try and breakdown th
 
 Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe.
 
+#### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Hamburger | MVP | 1hr | 1.5hr | -hr|
+| Project Previews | MVP | 3hr | -hr | -hr|
+| Regular Nav | MVP | 1hr | -hr | -hr|
+| Adding Form | MVP | 1.5hr| -hr | -hr |
+| Other sections and flex| MVP | 4hr | 2hr | -hr|
+| Working with API | MVP | 3hrs| 2hr | -hr |
+| Responsive | MVP | 3hr | -hr | -hr|
+| Social Media Icons | MVP | 1hr | -hr | -hr|
+| Project Hover | PMVP | 3hr | -hr | -hr|
+| Banner letters wiggle | PMVP | 1hr | -hr | -hr|
+| Interactive Banner | PMVP | 4hr | -hr | -hr|
+| Materialize | PMVP | 4hr | -hr | -hr|
+| Bootstrap | PMVP | 4hr | -hr | -hr|
+| Make own icon | PMVP | 4hr | -hr | -hr|
+| Total | H | 33.5hrs| -hrs | -hrs |
+
+#### PostMVP
+| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
+| Project Hover | PMVP | 3hr | -hr | -hr|
+| Banner letters wiggle | PMVP | 1hr | -hr | -hr|
+| Interactive Banner | PMVP | 4hr | -hr | -hr|
+| Materialize | PMVP | 4hr | -hr | -hr|
+| Bootstrap | PMVP | 4hr | -hr | -hr|
+| Make own icon | PMVP | 4hr | -hr | -hr|
+| Total | H | 20hrs| -hrs | -hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
