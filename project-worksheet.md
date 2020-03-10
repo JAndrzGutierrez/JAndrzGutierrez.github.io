@@ -73,13 +73,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Working with API | MVP | 3hrs| 2hr | -hr |
 | Responsive | MVP | 3hr | -hr | -hr|
 | Social Media Icons | MVP | 1hr | -hr | -hr|
-| Project Hover | PMVP | 3hr | -hr | -hr|
-| Banner letters wiggle | PMVP | 1hr | -hr | -hr|
-| Interactive Banner | PMVP | 4hr | -hr | -hr|
-| Materialize | PMVP | 4hr | -hr | -hr|
-| Bootstrap | PMVP | 4hr | -hr | -hr|
-| Make own icon | PMVP | 4hr | -hr | -hr|
-| Total | H | 33.5hrs| -hrs | -hrs |
+| Total | H | 15.5hrs| -hrs | -hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
