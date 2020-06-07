@@ -28,7 +28,7 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
-- [Mobile](../readme-assets/mobile.png)
+- [Mobile](.././readme-assets/mobile.png)
 - [Tablet](https://mockflow.com/app/#Wireframe)
 - [Desktop](https://www.figma.com/)
 
