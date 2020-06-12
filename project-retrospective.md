@@ -1,6 +1,6 @@
 # Project Retrospective
 
-Let’s take a few minutes as a class and capture as many insights possible in the categories below.  One of the instructional team will go through each category and capture as many thoughts as possible.  Feel free to come off mute and speak your thoughts out loud. 
+Let’s take a few minutes as a class and capture as many insights possible in the categories below.  One of the instructional team will go through each category and capture as many thoughts as possible.  We ask that you come off mute and speak your thoughts out loud for everyone to hear. 
 
 ## Lessons Learned
 
