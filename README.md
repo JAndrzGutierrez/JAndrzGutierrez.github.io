@@ -83,11 +83,27 @@ Check out portfoliios that look awesome and emulate the parts that speak to you.
 
 Search and compare at least 3 profile web sites.  Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site. 
 
-Link To Site  | One Thing I'd Like To Incorporate | Initial Research On That Item
+Here is a sample of what that reserach will look like:
+
+Link To Site  | One Thing I'd Like To Incorporate | 
 | ------------- | ------------- | ------------- |
 | [http://www.denisechandler.com/](http://www.denisechandler.com/)| initial animation\drawing on page load
 |[jkeohan.com](jkeohan.com) | mouseover on a project triggers animations |
 | [http://mattfarley.ca/](http://mattfarley.ca/) |  layout of the projects
+
+<hr>
+
+#### <g-emoji class="g-emoji" alias="alarm_clock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f0.png">⏰</g-emoji> Activity - 15min
+
+Your turn. Spend sometime and look at a few portfolio  and/or web sites to find some design or functionality that you would like to incorporate into your own portfolio.  Record those findings below:
+
+Link To Site  | One Thing I'd Like To Incorporate | 
+| ------------- | ------------- | ------------- |
+| | 
+| |  
+|  |  
+
+<hr>
 
 #### Starter Code
 
