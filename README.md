@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Unit 1 Project Build A Portfolio Site
 
-#### Overview
+## Overview
 
 This project will give you a chance to use the skills we've learned in class to create a site that highlights the skills and projects you'll be working on in WDI. You'll get a chance to use JavaScript to tackle interactions such as an image slider, a responsive hamburger menu, and quotes that fade in and out on a timer.
 
@@ -10,7 +10,25 @@ You will be working individually for this project, but we'll be guiding you thro
 
 ---
 
-#### Requirements
+## Prereqquistes
+
+In order to help set you up for success you are required to do the following before you attempt to plan out your project:
+
+#### Reading
+
+ The [previous cohorts project 1 retrospective](previous-class-project-retrospective.md)
+
+There are alot of helpful hints and hindsight that were captured after the completion of project 1 which are sure to help provide some guidance on what to and not to do during this project. 
+
+#### Watch
+
+ [Mastering Markdown](https://masteringmarkdown.com/) - 34min
+
+ You will need to write and update markdown for this project as will be the case for all future projects so it's your responsibility to become familiar with the syntax.  
+
+---
+
+## Requirements
 
 Your work must:
 
@@ -22,7 +40,7 @@ Your work must:
 - Be deployed and accessible online either via Github Pages or Surge. 
 ---
 
-#### Necessary Deliverables
+## Necessary Deliverables
 
 - An About, Projects, Contact form 
 - Site must be created using a "mobile first" approach. 
@@ -91,7 +109,7 @@ Try exploring these front end frameworks:
 - [https://getbootstrap.com/](https://getbootstrap.com/)
 
 ---
-#### Hungry For More?
+## Hungry For More?
 
 If you're looking for an extra challenge, try tackling some of the tasks below:
 
@@ -101,13 +119,13 @@ If you're looking for an extra challenge, try tackling some of the tasks below:
 
 ---
 
-#### Additional Resources
+## Additional Resources
 
 - Joe's [FEWD Trello Board](https://trello.com/b/yqrvugBk/lectures)
 - Joe's YouTube 3 Part Sereis on [jQuery Top Nav Animation On Scroll](https://www.youtube.com/watch?v=mRsF-a3qFZE&t=176s)
 
 
-#### Need More Review?
+## Need More Review?
 
 
 - HTML/CSS
@@ -119,4 +137,3 @@ If you're looking for an extra challenge, try tackling some of the tasks below:
 	- [JavaScript Timers](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)
 
 ---
-
