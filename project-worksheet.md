@@ -71,20 +71,20 @@ Based on the initial logic defined in the previous sections try and breakdown th
 Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe.
 
 #### MVP
-| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| Component | Priority | Estimated Time | Time Invetsted |
 | --- | :---: |  :---: | :---: | :---: |
-| Hamburger | H | 1hr | 1.5hr | -hr|
-| Project Previews | H | 3hr | -hr | -hr|
-| Regular Nav | H | H | -hr | -hr|
-| Adding Form | H | 1.5hr| -hr | -hr |
-| Other sections and flex| M | 4hr | 2hr | -hr|
-| Working with API | H | 3hrs| 2hr | -hr |
-| Responsive | H | 3hr | -hr | -hr|
-| Social Media Icons | L | 1hr | -hr | -hr|
-| Total | H | 15.5hrs| -hrs | -hrs |
+| Hamburger | H | 1hr | 1.5hr | 
+| Project Previews | H | 3hr | -hr | 
+| Regular Nav | H | H | -hr | 
+| Adding Form | H | 1.5hr| -hr | 
+| Other sections and flex| M | 4hr | 
+| Working with API | H | 3hrs| 2hr | 
+| Responsive | H | 3hr | -hr | 
+| Social Media Icons | L | 1hr | -hr | 
+| Total | H | 15.5hrs| -hrs | 
 
 #### PostMVP
-| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| Component | Priority | Estimated Time | Time Invetsted | 
 | --- | :---: |  :---: | :---: | :---: |
 | Project Hover | L | 3hr | -hr | -hr|
 | Banner letters wiggle | L | 1hr | -hr | -hr|
