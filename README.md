@@ -86,7 +86,7 @@ Search and compare at least 3 profile web sites.  Record your findings in the ta
 Here is a sample of what that reserach will look like:
 
 Link To Site  | One Thing I'd Like To Incorporate | 
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- |
 | [http://www.denisechandler.com/](http://www.denisechandler.com/)| initial animation\drawing on page load
 |[jkeohan.com](jkeohan.com) | mouseover on a project triggers animations |
 | [http://mattfarley.ca/](http://mattfarley.ca/) |  layout of the projects
@@ -98,7 +98,7 @@ Link To Site  | One Thing I'd Like To Incorporate |
 Your turn. Spend sometime and look at a few portfolio  and/or web sites to find some design or functionality that you would like to incorporate into your own portfolio.  Record those findings below:
 
 Link To Site  | One Thing I'd Like To Incorporate | 
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- |
 | | 
 | |  
 |  |  
