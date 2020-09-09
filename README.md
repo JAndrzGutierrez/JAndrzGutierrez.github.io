@@ -79,7 +79,7 @@ Check out portfoliios that look awesome and emulate the parts that speak to you.
  - [ga profiles](https://profiles.generalassemb.ly/profiles)
 
 
-### Finding Good Portfolio Sites To Emulate - 10 min
+### Finding Good Portfolio Sites To Emulate 
 
 Search and compare at least 3 profile web sites.  Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site. 
 
