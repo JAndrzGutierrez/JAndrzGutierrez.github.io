@@ -10,7 +10,7 @@ You will be working individually for this project, but we'll be guiding you thro
 
 ---
 
-## Prereqquistes
+## Prerequistes
 
 In order to help set you up for success you are required to do the following before you attempt to plan out your project:
 
