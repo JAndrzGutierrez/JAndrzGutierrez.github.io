@@ -84,15 +84,15 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Total | H | 15.5hrs| -hrs | 
 
 #### PostMVP
-| Component | Priority | Estimated Time | Time Invetsted | 
-| --- | :---: |  :---: | :---: | :---: |
-| Project Hover | L | 3hr | -hr | -hr|
-| Banner letters wiggle | L | 1hr | -hr | -hr|
-| Interactive Banner | M | 4hr | -hr | -hr|
-| Materialize | H | 4hr | -hr | -hr|
-| Bootstrap | H | 4hr | -hr | -hr|
-| Make own icon | L | 4hr | -hr | -hr|
-| Total | H | 20hrs| -hrs | -hrs |
+| Component | Priority | Estimated Time | 
+| --- | :---: |  :---: | :---: | 
+| Project Hover | L | 3hr | -hr | 
+| Banner letters wiggle | L | 1hr | 
+| Interactive Banner | M | 4hr | 
+| Materialize | H | 4hr | -hr | 
+| Bootstrap | H | 4hr | 
+| Make own icon | L | 4hr | 
+| Total | H | 20hrs| 
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
