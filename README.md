@@ -59,8 +59,6 @@ Check out portfoliios that look awesome and emulate the parts that speak to you.
  - [mattfarely.ca](http://mattfarley.ca/)
 
  - [sebkay.com](http://sebkay.com/)
-
- - [imdev.in](https://imdev.in/)
  
  ### Previous SEI Students
 
