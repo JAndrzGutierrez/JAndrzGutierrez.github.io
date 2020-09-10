@@ -74,7 +74,6 @@ Check out portfoliios that look awesome and emulate the parts that speak to you.
  
  - [jessicalandzberg.github.io/](https://jessicalandzberg.github.io/Unit_1_Project/#myJourney0)
  
- - [ga profiles](https://profiles.generalassemb.ly/profiles)
 
 
 ### Finding Good Portfolio Sites To Emulate 
