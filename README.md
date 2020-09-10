@@ -102,10 +102,6 @@ Link To Site  | One Thing I'd Like To Incorporate |
 
 <hr>
 
-#### Starter Code
-
-No starter code has been provided for this project, as you will be building your site from scratch. As an option, you can use the [HTML5 Boilerplate](https://html5boilerplate.com/) as a template to get started.
-
 ---
 #### Suggested Ways to Get Started
 
