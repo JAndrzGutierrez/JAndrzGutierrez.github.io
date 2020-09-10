@@ -85,7 +85,7 @@ Here is a sample of what that reserach will look like:
 Link To Site  | One Thing I'd Like To Incorporate | 
 | ------------- | ------------- |
 | [http://www.denisechandler.com/](http://www.denisechandler.com/)| initial animation\drawing on page load
-|[jkeohan.com](jkeohan.com) | mouseover on a project triggers animations |
+|[jkeohan.com](http://jkeohan.com/) | mouseover on a project triggers animations |
 | [http://mattfarley.ca/](http://mattfarley.ca/) |  layout of the projects
 
 <hr>
