@@ -5,7 +5,8 @@
 - Gourav 
 - Jaime 
 - Sampreet
-- Tyler 
+- Shayan 
+- Frederick
 
 ### Alex
 - Kim 
@@ -15,6 +16,7 @@
 - Hannah
 - Sean 
 - Sara 
+- Lien 
 
 ### Stack
 - Leah 
@@ -24,16 +26,14 @@
 - Stasys 
 - Tonimarie 
 - Jake 
-- Lien 
 - Marialaina 
 
 ### Kenny
 - Sam 
 - Kilah
 - Chase
-- Frederick
 - Zack
 - Esteban 
 - Zane 
-- Shayan 
+- Tyler 
 - Erik 
