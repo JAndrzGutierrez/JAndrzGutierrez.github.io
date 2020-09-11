@@ -1,39 +1,39 @@
 ### Joe 
-Frieda Abdo
-Allisyn Abrams
-Adeola Akinsiku
-Gourav Auluck
-Jaime Bondoc
-Sampreet Chawla
-Tyler Farhner
+- Frieda
+- Allisyn 
+- Adeola
+- Gourav 
+- Jaime 
+- Sampreet
+- Tyler 
 
 ### Alex
-Kim Rasmussen
-Jesse Rouse
-Riana Shahid
-Woodrow Thompson
-Hannah Trask
-Sean Unland
-Sara Ward
+- Kim 
+- Jesse
+- Riana 
+- Woodrow 
+- Hannah
+- Sean 
+- Sara 
 
 ### Stack
-Leah Haake
-Bojan Josilo
-Quinton Lythgoe
-Meena McGowen
-Stasys Meclazcke
-Tonimarie Morris
-Jake Nguyen
-Lien Nguyen
-marialaina preciado
+- Leah 
+- Bojan 
+- Quinton 
+- Meena 
+- Stasys 
+- Tonimarie 
+- Jake 
+- Lien 
+- Marialaina 
 
 ### Kenny
-Sam Casey
-Kilah Willingham
-Chase
-Frederick
-Zack
-Esteban Gonzalez
-Zane Griffin
-Shayan Gagan
-Erik Shelton
+- Sam 
+- Kilah
+- Chase
+- Frederick
+- Zack
+- Esteban 
+- Zane 
+- Shayan 
+- Erik 
