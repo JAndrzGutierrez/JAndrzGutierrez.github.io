@@ -10,7 +10,7 @@ You will be working individually for this project, but we'll be guiding you thro
 
 ---
 
-## Prereqquistes
+## Prerequistes
 
 In order to help set you up for success you are required to do the following before you attempt to plan out your project:
 
@@ -59,8 +59,6 @@ Check out portfoliios that look awesome and emulate the parts that speak to you.
  - [mattfarely.ca](http://mattfarley.ca/)
 
  - [sebkay.com](http://sebkay.com/)
-
- - [imdev.in](https://imdev.in/)
  
  ### Previous SEI Students
 
@@ -76,7 +74,6 @@ Check out portfoliios that look awesome and emulate the parts that speak to you.
  
  - [jessicalandzberg.github.io/](https://jessicalandzberg.github.io/Unit_1_Project/#myJourney0)
  
- - [ga profiles](https://profiles.generalassemb.ly/profiles)
 
 
 ### Finding Good Portfolio Sites To Emulate 
@@ -88,7 +85,7 @@ Here is a sample of what that reserach will look like:
 Link To Site  | One Thing I'd Like To Incorporate | 
 | ------------- | ------------- |
 | [http://www.denisechandler.com/](http://www.denisechandler.com/)| initial animation\drawing on page load
-|[jkeohan.com](jkeohan.com) | mouseover on a project triggers animations |
+|[jkeohan.com](http://jkeohan.com/) | mouseover on a project triggers animations |
 | [http://mattfarley.ca/](http://mattfarley.ca/) |  layout of the projects
 
 <hr>
@@ -104,10 +101,6 @@ Link To Site  | One Thing I'd Like To Incorporate |
 |  |  
 
 <hr>
-
-#### Starter Code
-
-No starter code has been provided for this project, as you will be building your site from scratch. As an option, you can use the [HTML5 Boilerplate](https://html5boilerplate.com/) as a template to get started.
 
 ---
 #### Suggested Ways to Get Started
