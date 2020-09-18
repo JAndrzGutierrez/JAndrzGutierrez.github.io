@@ -12,7 +12,7 @@
 - Frieda
 - Allisyn
 - Quinton
-- Meena
+- Jake
 - Chase
 - Zack
 - Sara
@@ -25,7 +25,7 @@
 - Woodrow
 - Esteban
 - Zane
-- Jake
+- Meena
 - Marialaina
 
 ### Kenny
