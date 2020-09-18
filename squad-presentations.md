@@ -1,40 +1,40 @@
 ### Joe
+- Kim
+- Jesse
+- Leah
+- Bojan
+- Sam
+- Kilah
+- Shayan
+- Frederick
 
-Frieda
-Allisyn
-Adeola
-Gourav
-Jaime
-Sampreet
-Shayan
-Frederick
-
-###Alex
-Kim
-Jesse
-Riana
-Woodrow
-Hannah
-Sean
-Sara
-Lien
+### Alex
+- Frieda
+- Allisyn
+- Quinton
+- Meena
+- Chase
+- Zack
+- Sara
+- Lien
 
 ### Stack
-Leah
-Bojan
-Quinton
-Meena
-Stasys
-Tonimarie
-Jake
-Marialaina
+- Adeola
+- Gourav
+- Riana
+- Woodrow
+- Esteban
+- Zane
+- Jake
+- Marialaina
 
 ### Kenny
-Sam
-Kilah
-Chase
-Zack
-Esteban
-Zane
-Tyler
-Erik
+- Jaime
+- Sampreet
+- Hannah
+- Sean
+- Stasys
+- Tonimarie
+- Tyler
+- Erik
+
