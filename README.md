@@ -64,15 +64,8 @@ Check out portfoliios that look awesome and emulate the parts that speak to you.
 
  - [helloaileen.com](http://helloaileen.com)
  
- - [eloise-ress-barrow.surge.sh/](http://eloise-ress-barrow.surge.sh/#writing)
-
  - [lianapenn.com](https://www.lianapenn.com/)
  
- - [robertdiscipio.surge.sh/](http://robertdiscipio.surge.sh/)
- 
- - [andrewhollingworth.com/](http://andrewhollingworth.com/)
- 
- - [jessicalandzberg.github.io/](https://jessicalandzberg.github.io/Unit_1_Project/#myJourney0)
  
 
 
