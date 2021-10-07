@@ -33,22 +33,23 @@ There are alot of helpful hints and hindsight that were captured after the compl
 Your work must:
 
 - Use semantic markup for HTML and CSS, adhering to best practices.
-- Use CSS GRID to create a multi-column layout.
-- Use Flexbox for content
+- Use CSS GRID and Flexbox.
 - Must be mobile mobile first, then tablet and desktop responsive.
-- Must pull in projects via API call from google sheet 
-- Be deployed and accessible online either via Github Pages or Surge. 
+- Must implement jquery to extend functionality by implementing one of the following
+	1. 3rd party api
+	2. Animations
+	3. Some kind of Game logic
+- Be deployed and accessible online either via Github Pages. 
 ---
 
 ## Necessary Deliverables
 
-- An About, Projects, Contact form 
+- An About, Projects and Contact page.
 - Site must be created using a "mobile first" approach. 
 - A Git repository, hosted on your personal GitHub, that includes a link to your hosted site. Site url should be in the form of githubusername.github.io. 
 - Repo must contain frequent commits (min 15+) dating back to the beginning of the project.
 - An updated project workshheet will all sections filled out accordingly. 
 - An in-class demo of the site that shows off the interactions you worked on.
-- A mobile nav that expands and collapses when a user clicks on the hamburger icon.
 
 ## Portfolio Samples
 
@@ -103,9 +104,9 @@ Link To Site  | One Thing I'd Like To Incorporate |
 - **Write pseudocode before you write any JavaScript code.** Planning out and thinking through interactions for a website is an important step that will save you time and effort when you start actually coding.
 - Do not simply copy and paste code that you find online! It is OK (and highly encouraged) to use resources like Stack Overflow when thinking through interactions, but use these sites as a guide and then write the code on your own.
 
-#### Front End Frameworks
+#### Front End Libraries
 
-Try exploring these front end frameworks:
+Try exploring these css libraries:
 
 - [https://materializecss.com/](https://materializecss.com/)
 - [https://getbootstrap.com/](https://getbootstrap.com/)
