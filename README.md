@@ -39,7 +39,7 @@ Your work must:
 	1. 3rd party api
 	2. Animations
 	3. Some kind of Game logic
-- Be deployed and accessible online either via Github Pages. 
+- Be deployed and accessible online via Github Pages. 
 ---
 
 ## Necessary Deliverables
@@ -48,7 +48,7 @@ Your work must:
 - Site must be created using a "mobile first" approach. 
 - A Git repository, hosted on your personal GitHub, that includes a link to your hosted site. Site url should be in the form of githubusername.github.io. 
 - Repo must contain frequent commits (min 15+) dating back to the beginning of the project.
-- An updated project workshheet will all sections filled out accordingly. 
+- An updated project worksheet with all sections filled out accordingly. 
 - An in-class demo of the site that shows off the interactions you worked on.
 
 ## Portfolio Samples
@@ -86,7 +86,7 @@ Link To Site  | One Thing I'd Like To Incorporate |
 
 #### <g-emoji class="g-emoji" alias="alarm_clock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f0.png">⏰</g-emoji> Activity - 15min
 
-Your turn. Spend sometime and look at a few portfolio  and/or web sites to find some design or functionality that you would like to incorporate into your own portfolio.  Record those findings below:
+Your turn. Spend some time and look at a few portfolios and/or websites to find some design or functionality that you would like to incorporate into your own portfolio. Record those findings below:
 
 Link To Site  | One Thing I'd Like To Incorporate | 
 | ------------- | ------------- |
