@@ -35,10 +35,11 @@ Your work must:
 - Use semantic markup for HTML and CSS, adhering to best practices.
 - Use CSS GRID and Flexbox.
 - Must be mobile mobile first, then tablet and desktop responsive.
-- Must implement jquery to extend functionality by implementing one of the following
-	1. 3rd party api
+- Must implement javascript to extend functionality by implementing 1 of the following
+	1. AJAX requests
 	2. Animations
-	3. Some kind of Game logic
+	3. Javascript logic
+	4. jQuery interactions
 - Be deployed and accessible online via Github Pages. 
 ---
 
