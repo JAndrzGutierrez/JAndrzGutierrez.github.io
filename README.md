@@ -85,18 +85,6 @@ Link To Site  | One Thing I'd Like To Incorporate |
 
 <hr>
 
-#### <g-emoji class="g-emoji" alias="alarm_clock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f0.png">⏰</g-emoji> Activity - 15min
-
-Your turn. Spend some time and look at a few portfolios and/or websites to find some design or functionality that you would like to incorporate into your own portfolio. Record those findings below:
-
-Link To Site  | One Thing I'd Like To Incorporate | 
-| ------------- | ------------- |
-| | 
-| |  
-|  |  
-
-<hr>
-
 ---
 #### Suggested Ways to Get Started
 
@@ -117,27 +105,10 @@ Try exploring these css libraries:
 
 If you're looking for an extra challenge, try tackling some of the tasks below:
 
-* Add validation to the contact form to make sure the user has filled out all required fields before submitting.
+* Add a contact us form that submits to Google Sheets or Firebase 
 * Add a skills section featuring skills you have/will have learned in the class.
-* Add a carousel 
-
----
-
-## Additional Resources
-
-- Joe's [FEWD Trello Board](https://trello.com/b/yqrvugBk/lectures)
-- Joe's YouTube 3 Part Sereis on [jQuery Top Nav Animation On Scroll](https://www.youtube.com/watch?v=mRsF-a3qFZE&t=176s)
-
-
-## Need More Review?
-
-
-- HTML/CSS
-	- [Practice CSS Selectors with CSS Diner](https://flukeout.github.io/)
-	- [Flexbox Froggy](http://flexboxfroggy.com/)
-
-
-- JavaScript
-	- [JavaScript Timers](https://developer.mozilla.org/en-US/Add-ons/Code_snippets/Timers)
+* Add a image carousel
+* Add a theme changer or dark/light mode
+* Show the weather of your visitor using a 3rd party API
 
 ---
