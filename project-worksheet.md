@@ -9,7 +9,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |  Day | Deliverable | Status
 |---|---| ---|
 |Jan 24| Project Description | Completed
-|Jan 25| Wireframes / Priority Matrix / Timeline | Incomplete
+|Jan 25| Wireframes / Priority Matrix / Timeline | Completed
 |Jan 26| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Jan 27| MVP & Bug Fixes | Incomplete
 |Jan 28| Final Touches | Incomplete
