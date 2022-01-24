@@ -18,7 +18,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+My portfolio website is going to be very simple but functional because right now I'm trying to master my foundation skills before I try to use more complex technology. I will try to use all the stuff that i learn the last 2 weeks.
+
 
 ## Wireframes
 
