@@ -1,0 +1,26 @@
+/* My Color Palette  */
+
+body {
+  --lavender-blue: #cbc5eaff;
+  --medium-slate-blue: #7161efff;
+  --davys-grey: #605f5eff;
+  --maize-crayola: #ffcf56ff;
+  --mellow-apricot: #f4b266ff;
+}
+/* Navigation Bar */
+.navbar {
+  background-color: var(--medium-slate-blue);
+  font-size: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+/* Main Container */
+main {
+  background-color: var(--mellow-apricot);
+  display: grid;
+ grid-template-columns: 2fr 1fr  3fr 1fr 2fr;
+ grid-template-columns: 2fr 3fr 4fr;
+
+ 
+}
