@@ -18,7 +18,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-My portfolio website is going to be very simple but functional because right now I'm trying to master my foundation skills before I try to use more complex technology. I will try to use all the stuff that I learned the last 2 weeks.
+My portfolio website is going to be very simple but functional because right now I'm trying to master my foundation skills before I try to use more complex technology. I will be using the HTML, CSS, JavaScript and jQuery that I've learned the last 2 weeks of coding camp.
 
 
 ## Wireframes
@@ -46,14 +46,14 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP (examples)
 
-- Pull data using google json api
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+- Html, Css And JavaScript for the structure foundation of the site.
+- I will be focusing in the mobile first design using cssgrid and flexbox.
+- jQuery interactions for cursors animations and css styling.
 
 #### PostMVP 
 
-- Anything else that is not MVP
+- Cursor Hover Animation
+- Social Media Icons
 
 ## Functional Components
 
@@ -64,26 +64,21 @@ Time frames are also key in the development cycle.  You have limited time to cod
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Hamburger | H | 1hr | 1.5hr |
-| Project Previews | H | 3hr | 3hr |
+| Basic Html   | H | 1hr | 2hr |
+| css grid and styling| H | 3hr | 3hr |
 | Regular Nav | H | 1hr | 1hr |  
-| Adding Form | H | 1.5hr|  3hr | 
-| Other sections and flex| M | 3hr | 3hr|
-| Working with API | H | 3hrs|  3hr | 
+| Adding contact Form | H | 1.5hr|  3hr | 
+|jquery animations and styling | M | 3hr | 3hr|
 | Responsive | H | 3hr | hr | 3hr |
-| Social Media Icons | L | 1hr |  2hr |
-| Total | H | 15.5hrs| hrs | 19.5hrs
+
+| Total | H | 15.5hrs| hrs | 12hrs
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Project Hover | L | 3hr | -hr | 3hr |
-| Banner letters wiggle | L | 1hr | 1hr |
-| Interactive Banner | M | 4hr | 4hr |
-| Materialize | H | 4hr | -hr | 4hr |
-| Bootstrap | H | 4hr | 4hr |
-| Make own icon | L | 4hr | 4hr |
-| Total | H | 20hrs| 16hrs more less|
+| cursorHover animation| L | 3hr | -hr | 3hr |
+| Social Media Icons | L | 1hr |  2hr |
+| Total | H | 20hrs| 5hrs more less|
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
