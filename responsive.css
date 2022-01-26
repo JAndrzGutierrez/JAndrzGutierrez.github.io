@@ -1,35 +1,50 @@
-/* responsive */
 
-/* MOBILE  */
-@media screen and (max-width: 425px) {
-  .main-content .project1 {
-    grid-column: 2 / 3;
-    grid-row: 5/ 6;
-    margin-right: 0px;
-    margin-bottom: 5px;
-  }
-  .main-content .project2 {
-    grid-column: 2 / 3;
-    grid-row: 6 / 7;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-  }
-  .main-content .project3 {
-    grid-column: 2 / 3;
-    grid-row: 7/ 8;
-    margin-left: 0px;
-    margin-top: 5px;
-  }
-  
-i.fas.fa-bars {
-    display: block;
-  }
-  
+
+/* TABLET */
+@media only screen and (min-width: 768px) {
+  /* HIDE THE HAMBURGER NAV BAR */
+
   .navbar {
-    display: none;
+    background-color: var(--medium-slate-blue);
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    list-style: none;
+  }
+.fa-bars{
+  display: none;
+}
+  .project1 {
+    grid-column: 1 / 2;
+    grid-row: 5 / 6;
+    grid-gap: 5px;
   }
 
-/* closing tag */
+  .project2 {
+    grid-column: 2 / 3;
+    grid-row: 5 / 6;
+    text-align: center;
+    background-color: var(--mellow-apricot);
+    grid-gap: 5px;
+  }
+  .project3 {
+    grid-column: 3 / 4;
+    grid-row: 5 / 6;
+    text-align: center;
+    background-color: var(--mellow-apricot);
+    grid-gap: 5px;
+  }
+
+
+}
+/* DESKTOP */
+@media only screen and (min-width: 992px) { 
+
+  .projectsbox{
+ grid-column: 1 / 4;
+}
+
+
+
 }
