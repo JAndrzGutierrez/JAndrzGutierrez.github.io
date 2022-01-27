@@ -1,10 +1,13 @@
 /* This file contains all the responsive elements */
-/* TABLET */
+
+/* ************************** */
+/* ***** TABLET CUSTOM *******/
+/* ************************** */
 @media only screen and (min-width: 768px) {
   /* HIDE THE HAMBURGER NAV BAR */
 
   .navbar {
-    background-color: var(--medium-slate-blue);
+    background-color: (--olive-drab-3);
     font-size: 20px;
     display: flex;
     flex-direction: row;
@@ -14,29 +17,74 @@
   .fa-bars {
     display: none;
   }
+  /* Name and Title Section */
+  .name{
+    font-size: 40px;
+    margin: 5px;
+  }
+  .seititle{
+
+  }
+
+  /* About Section */
+  .aboutcontainer{
+    grid-column: 1/4;
+    font-size: 20px;
+  }
+  .about-content{
+    font-size: 20px;
+  }
+/* Projects Section */
   .project1 {
-    grid-column: 1 / 2;
+    grid-column: 1 / 4;
     grid-row: 5 / 6;
     grid-gap: 5px;
   }
 
   .project2 {
-    grid-column: 2 / 3;
-    grid-row: 5 / 6;
+    grid-column: 1 / 4;
+    grid-row: 6 / 7;
     text-align: center;
-    background-color: var(--mellow-apricot);
+    background-color: var(--indigo-dye);
     grid-gap: 5px;
   }
   .project3 {
-    grid-column: 3 / 4;
-    grid-row: 5 / 6;
+    grid-column: 1 / 4;
+    grid-row: 7 / 8;
     text-align: center;
-    background-color: var(--mellow-apricot);
+    background-color: var(--indigo-dye);
     grid-gap: 5px;
   }
+/* Skills and Contact Section */
+  .toolbox-container {
+    grid-column: 1 / 4;
+    grid-row: 8 / 9;
+    padding-top: 10vh;
+  }
+  .contact-container {
+    grid-column: 1 / 4;
+    grid-row: 9 / 10;
+    padding-top: 10vh;
+  }
 }
-/* DESKTOP */
-@media only screen and (min-width: 992px) {
+/* ************************** */
+/* ***** DESKTOP CUSTOM *******/
+/* ************************** */
+@media only screen and (min-width: 996px) {
+  .main-content{
+    background-repeat: no-repeat ;
+    background-size: 350vh;
+   
+  }
+  .name{
+    font-size: 40px;
+   
+  }
+  .namebanner{
+    grid-column: 1/4;
+    
+  }
+  
   .projectsbox {
     grid-column: 1 / 4;
   }
@@ -45,9 +93,22 @@
     grid-row: 7 / 8;
     padding-top: 10vh;
   }
+  .toolbox-container .icon_container{
+    background-color: whitesmoke;
+    grid-column: 2 / 3;
+    display: flex;
+    justify-content: space-around;
+     
+  }
   .contact-container {
     grid-column: 1 / 4;
     grid-row: 8 / 9;
     padding-top: 10vh;
   }
+ 
+  .about-content{
+    font-size: 30px;
+  }
+
+  
 }

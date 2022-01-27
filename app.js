@@ -1,3 +1,11 @@
 $(() => {
-    console.log( "html is done loading, page ready!" );
-});
+ 
+    const $navbutton = $(".navbutton");
+   
+  
+    $navbutton.hover(
+      function () {
+        $(this).css("cursor", "pointer");
+      }
+    );
+  });

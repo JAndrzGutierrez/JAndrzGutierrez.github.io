@@ -1,21 +1,23 @@
-
-                                                                          /* MOBILE DEFAULT DESIGN*/
+/* ************************** */
+/* ***** MOBILE DEFAULT *******/
+/* ************************** */
 /* My Color Palette  */
 body {
-  --lavender-blue: #cbc5eaff;
-  --medium-slate-blue: #7161efff;
-  --davys-grey: #605f5eff;
-  --maize-crayola: #ffcf56ff;
-  --mellow-apricot: #f4b266ff;
+  --olive-drab-3: #648703ff;
+  --burnt-orange: #ba5000ff;
+  --blood-red: #630e00ff;
+  --citrine: #dcc610ff;
+  --indigo-dye: #283f59ff;
+  color: white;
 }
 header {
   margin: 1px;
-  background-color: var(--medium-slate-blue);
+  background-color: var(--olive-drab-3);
   padding-top: 10px;
   padding-bottom: 10px;
 }
 .navbar {
-  background-color: var(--medium-slate-blue);
+  background-color: va;
   font-size: 20px;
   display: none;
   flex-direction: row;
@@ -28,16 +30,20 @@ li {
   margin: 10px;
   padding-left: 3px;
   padding-right: 3px;
-  background-color: var(--mellow-apricot);
+  background-color: var(--indigo-dye);
   border-style: outset;
   border-radius: 10%;
+  color: whitesmoke;
+}
+i {
+  margin: 4vw;
 }
 /* Hamburguer menu */
-.fa-bars{
- color:var(--mellow-apricot);
- font-size: 50px;
- background-color: var(--medium-slate-blue);
- padding: 10px
+.fa-bars {
+  color: var(--indigo-dye);
+  font-size: 50px;
+  background-color: var(--burnt-orange);
+  padding: 10px;
 }
 /* *****************************************/
 /* Image Container. */
@@ -45,7 +51,7 @@ li {
   border-style: outset;
   border-radius: 50%;
   height: 30vh;
-  background-color: var(--lavender-blue);
+  background-color: var(--indigo-dye);
   height: 30vh;
   padding-top: 10px;
 }
@@ -63,96 +69,132 @@ li {
   grid-column: 2 / 3;
   grid-row: 2 / 3;
   text-align: center;
-  background-color: var(--medium-slate-blue);
+  background-color: var(--indigo-dye);
   align-items: center;
-  font-family: 'Permanent Marker';
-  
+  opacity: 85%;
 }
-.name{
+.seititle{
+  margin-top: 60px;
+}
+.name {
   padding-top: 70px;
   height: 10vh;
-  
 }
 /* *********************About*********************** */
 .aboutcontainer {
   grid-column: 2 / 3;
   grid-row: 3 / 4;
-  background-color: var(--medium-slate-blue);
+  background-color: var(--indigo-dye);
+  opacity: 85%;
+  color:whitesmoke;
 }
 .about {
   text-align: center;
   
 }
-.about-content{
+.about-content {
   text-align: center;
   padding: 5px;
+  font-size: 14px;
+  
 }
 /* **********************Project Section************** */
 .projectsbox {
   grid-column: 2 / 3;
   grid-row: 4 / 5;
   text-align: center;
-  background-color: var(--medium-slate-blue);
+  background-color: var(--indigo-dye);
   grid-gap: 5px;
+  opacity: 85%;
 }
 
 h3 {
   font-size: 33px;
 }
-
+.about-content {
+  background-color: var(--indigo-dye);
+  
+}
 
 /* Main Container */
 .main-content {
-  background-color: var(--davys-grey);
+  background-image: url(images/paul-blenkhorn-gkKI23ZeaHM-unsplash.jpg);
+  background-size: 200vh;
   display: grid;
   grid-template-columns: 2fr 3fr 2fr;
-  grid-template-rows: repeat(12, 2fr);
+  grid-template-rows: repeat(11, 2fr);
   grid-gap: 5px;
+  background-color: var(--indigo-dye);
+  padding: 5px;
 }
 
 .project1 {
   grid-column: 2 / 3;
   grid-row: 5 / 6;
   text-align: center;
-  background-color: var(--mellow-apricot);
+  background-color: var(--indigo-dye);
   font-size: 25px;
+  opacity: 85%;
 }
 .project2 {
   grid-column: 2 / 3;
   grid-row: 6 / 7;
   text-align: center;
-  background-color: var(--mellow-apricot);
+  background-color: var(--indigo-dye);
   font-size: 25px;
+  opacity: 85%;
 }
 .project3 {
   grid-column: 2 / 3;
   grid-row: 7 / 8;
   text-align: center;
-  background-color: var(--mellow-apricot);
+  background-color: var(--indigo-dye);
   font-size: 25px;
+  opacity: 85%;
 }
 /*<!-- Skills Section and Icons. --> */
 /* I need to add all the icons for the skills */
-.toolbox-container{
+.toolbox-container {
   grid-column: 2 / 3;
   grid-row: 8 / 9;
   text-align: center;
-  background-color: var(--mellow-apricot);
+  background-color: var(--indigo-dye);
   padding-top: 20vh;
-} 
-.toolbox{
- font-size: 25px;
+  opacity: 85%;
 }
-.contact-container{
+.toolbox {
+  font-size: 25px;
+}
+
+.contact-container {
   grid-column: 2 / 3;
   grid-row: 9 / 10;
   text-align: center;
-  background-color: var(--mellow-apricot);
+  background-color: var(--indigo-dye);
   padding-top: 20vh;
+  opacity: 85%;
+  grid-column: 2 / 3;
 }
-.contact{
+.contact {
   font-size: 25px;
 }
-.contact-icon{
+.contact-icon {
   display: visible;
+}
+
+.toolbox-container .icon_container {
+  background-color: whitesmoke;
+  grid-column: 2 / 3;
+  padding: 10px;
+}
+.icon_container {
+  justify-content: space-around;
+  background-color: var(--indigo-dye);
+}
+.contact-container .icon_container2 {
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: space-around;
+  grid-column: 2 / 3;
+  padding: 10px;
 }
