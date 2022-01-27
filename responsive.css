@@ -1,5 +1,4 @@
-
-
+/* This file contains all the responsive elements */
 /* TABLET */
 @media only screen and (min-width: 768px) {
   /* HIDE THE HAMBURGER NAV BAR */
@@ -12,9 +11,9 @@
     text-align: center;
     list-style: none;
   }
-.fa-bars{
-  display: none;
-}
+  .fa-bars {
+    display: none;
+  }
   .project1 {
     grid-column: 1 / 2;
     grid-row: 5 / 6;
@@ -35,16 +34,20 @@
     background-color: var(--mellow-apricot);
     grid-gap: 5px;
   }
-
-
 }
 /* DESKTOP */
-@media only screen and (min-width: 992px) { 
-
-  .projectsbox{
- grid-column: 1 / 4;
-}
-
-
-
+@media only screen and (min-width: 992px) {
+  .projectsbox {
+    grid-column: 1 / 4;
+  }
+  .toolbox-container {
+    grid-column: 1 / 4;
+    grid-row: 7 / 8;
+    padding-top: 10vh;
+  }
+  .contact-container {
+    grid-column: 1 / 4;
+    grid-row: 8 / 9;
+    padding-top: 10vh;
+  }
 }
