@@ -6,18 +6,13 @@ $(() => {
     $(this).css("cursor", "pointer");
   });
 
-  // $navbutton.on("click", function() {
-  //   window.open("https://www.youtube.com/watch?v=nhPaWIeULKk");
-  // });
-
-  $( ".navbutton" ).click(function() {
-    $( "#about_section" ).slideDown( "slow", function() {
-      // Animation complete.
-    });
+  $navbutton.on("click", function () {
+    window.open("https://www.youtube.com/watch?v=nhPaWIeULKk");
   });
 
+  const $faFabars = $(".fa-bars");
 
-
-
-
+  $faFabars.on("click", function () {
+    window.open("https://www.youtube.com/watch?v=vX9msKu75qs");
+  });
 });

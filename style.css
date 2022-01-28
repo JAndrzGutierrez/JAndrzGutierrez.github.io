@@ -108,6 +108,11 @@ p{
   text-align: center;
   
 }
+#about_section{
+  scroll-behavior: smooth;    /* <----- THE SECRET ---- */
+}
+
+
 .about-content {
   text-align: center;
   padding: 5px;
@@ -217,3 +222,4 @@ h3 {
 a{
   text-decoration: none;
 }
+
