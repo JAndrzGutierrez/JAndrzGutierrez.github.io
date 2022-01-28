@@ -15,6 +15,10 @@ header {
   background-color: var(--olive-drab-3);
   padding-top: 10px;
   padding-bottom: 10px;
+  padding-left: 10px;
+  display:flex;
+  justify-content: start;
+  align-items: center;
 }
 .navbar {
   background-color: va;
@@ -23,7 +27,16 @@ header {
   flex-direction: row;
   text-align: center;
   list-style: none;
-  padding: 10px;
+ 
+  
+}
+.navname{
+ background-color: var(--indigo-dye);
+ text-align: center;
+ margin: 5px 5px 5px 5px;
+ border-style: outset;
+ border-radius: 5px;
+  
 }
 /* Navigation Bar Bottoms */
 li {
@@ -41,9 +54,12 @@ i {
 /* Hamburguer menu */
 .fa-bars {
   color: var(--indigo-dye);
-  font-size: 50px;
+  font-size: 35px;
   background-color: var(--burnt-orange);
-  padding: 10px;
+  padding: 5px 5px 5px 5px;
+  border-style: solid;
+ border-radius: 5px;
+  
 }
 /* *****************************************/
 /* Image Container. */
@@ -95,6 +111,7 @@ p{
 .name {
   padding-top: 70px;
   height: 10vh;
+  display: none; 
 }
 /* *********************About*********************** */
 .aboutcontainer {
@@ -156,6 +173,9 @@ h3 {
   background-color: var(--indigo-dye);
   font-size: 25px;
   opacity: 85%;
+  background-image: url(images/anastasia-mezenina-7DGdHT5LTl0-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .project2 {
   grid-column: 2 / 3;
@@ -164,6 +184,9 @@ h3 {
   background-color: var(--indigo-dye);
   font-size: 25px;
   opacity: 85%;
+  background-image: url(images/mateusz-bajdak-npNhp50pZko-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .project3 {
   grid-column: 2 / 3;
@@ -172,6 +195,9 @@ h3 {
   background-color: var(--indigo-dye);
   font-size: 25px;
   opacity: 85%;
+  background-image: url(images/zdenek-machacek-WXSJfseLjIk-unsplash\ \(1\).jpg);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 /*<!-- Skills Section and Icons. --> */
 /* I need to add all the icons for the skills */
