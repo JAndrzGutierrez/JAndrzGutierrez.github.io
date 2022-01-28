@@ -73,6 +73,22 @@ i {
   align-items: center;
   opacity: 85%;
 }
+@font-face {
+  font-family: Game-Of-Squids;
+  src: url("fonts/Game\ Of\ Squids.ttf");
+  font-size: 100%; 
+}
+h1, h2, h3, nav{
+  font-family: Game-Of-Squids;
+}
+@font-face {
+  font-family: louis_george_caf;
+  src: url("fonts/louis_george_caf/Louis\ George\ Cafe.ttf");
+  font-size: 100%; 
+}
+p{
+  font-family: louis_george_caf;
+}
 .seititle{
   margin-top: 60px;
 }
@@ -100,7 +116,7 @@ i {
 }
 /* **********************Project Section************** */
 .projectsbox {
-  grid-column: 2 / 3;
+  grid-column: 1 / 4;
   grid-row: 4 / 5;
   text-align: center;
   background-color: var(--indigo-dye);
@@ -197,4 +213,7 @@ h3 {
   justify-content: space-around;
   grid-column: 2 / 3;
   padding: 10px;
+}
+a{
+  text-decoration: none;
 }

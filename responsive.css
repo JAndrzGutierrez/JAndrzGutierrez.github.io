@@ -22,10 +22,10 @@
     font-size: 40px;
     margin: 5px;
   }
-  .seititle{
-
+  .namebanner{
+    grid-column: 1 / 4;
   }
-
+ 
   /* About Section */
   .aboutcontainer{
     grid-column: 1/4;
@@ -35,6 +35,9 @@
     font-size: 20px;
   }
 /* Projects Section */
+  .projectsbox{
+    grid-column: 1/4;
+  }
   .project1 {
     grid-column: 1 / 4;
     grid-row: 5 / 6;
@@ -90,7 +93,7 @@
   }
   .toolbox-container {
     grid-column: 1 / 4;
-    grid-row: 7 / 8;
+    grid-row: 8 / 9;
     padding-top: 10vh;
   }
   .toolbox-container .icon_container{
@@ -102,7 +105,7 @@
   }
   .contact-container {
     grid-column: 1 / 4;
-    grid-row: 8 / 9;
+    grid-row: 9/ 10;
     padding-top: 10vh;
   }
  
