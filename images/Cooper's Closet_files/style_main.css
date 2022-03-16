@@ -1,0 +1,32 @@
+/* Color Palette */
+body{
+--middle-blue-green: #99d5c9ff;
+--deep-saffron: #f19a3eff;
+--tufts-blue: #3c91e6ff;
+--indigo-dye: #133c55ff;
+--cyclamen: #dd7596ff;
+}
+
+/* Navigation Bar */
+.navigation-bar{
+    background-color: var(--tufts-blue);
+    color: whitesmoke;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+/* Navigation Bar Buttons */
+#nav-button{
+border-style: outset;
+border-radius: 5%;
+border-color: var(--deep-saffron);
+margin: 5px;
+list-style-type: none;
+}
+/* Main Section */
+.main-section{
+    background-color: var(--indigo-dye);
+}
+.top-banner{
+    background-color: var(--tufts-blue);
+}

@@ -36,6 +36,7 @@ header {
  margin: 5px 5px 5px 5px;
  border-style: outset;
  border-radius: 5px;
+ font-size: 17px;
   
 }
 /* Navigation Bar Bottoms */
@@ -68,21 +69,21 @@ i {
   border-radius: 50%;
   height: 30vh;
   background-color: var(--indigo-dye);
-  height: 30vh;
-  padding-top: 10px;
-}
-.imagecontainer {
+  position: absolute;
   grid-column: 2 / 3;
   grid-row: 1 / 2;
-  display: flex;
+  }
+.imagecontainer {
+  display:flex;
   justify-content: center;
   align-items: center;
+  grid-column: 1 / 4;
+  grid-row: 1 / 2;
   padding-top: 20px;
-  padding-bottom: 20px;
 }
 /* ***********************Banner********************* */
 .namebanner {
-  grid-column: 2 / 3;
+  grid-column: 1 / 4;
   grid-row: 2 / 3;
   text-align: center;
   background-color: var(--indigo-dye);
@@ -94,6 +95,17 @@ i {
   src: url("fonts/Game\ Of\ Squids.ttf");
   font-size: 100%; 
 }
+.seititle{
+  margin-top: 50px;
+  font-size: 40px;
+  
+}
+.name {
+  padding-top: 70px;
+  height: 10vh;
+  display: none; 
+}
+/* FONTS  */
 h1, h2, h3, nav{
   font-family: Game-Of-Squids;
 }
@@ -105,17 +117,10 @@ h1, h2, h3, nav{
 p{
   font-family: louis_george_caf;
 }
-.seititle{
-  margin-top: 60px;
-}
-.name {
-  padding-top: 70px;
-  height: 10vh;
-  display: none; 
-}
+
 /* *********************About*********************** */
 .aboutcontainer {
-  grid-column: 2 / 3;
+  grid-column: 1 / 4;
   grid-row: 3 / 4;
   background-color: var(--indigo-dye);
   opacity: 85%;
@@ -123,12 +128,7 @@ p{
 }
 .about {
   text-align: center;
-  
 }
-#about_section{
-  scroll-behavior: smooth;    /* <----- THE SECRET ---- */
-}
-
 
 .about-content {
   text-align: center;
@@ -160,14 +160,14 @@ h3 {
   background-size: 200vh;
   display: grid;
   grid-template-columns: 2fr 3fr 2fr;
-  grid-template-rows: repeat(11, 2fr);
-  grid-gap: 5px;
+  grid-template-rows: 18em auto 35em 35em 35em 35em 35em 35em 35em ;
+  grid-gap: 10px;
   background-color: var(--indigo-dye);
   padding: 5px;
 }
 
 .project1 {
-  grid-column: 2 / 3;
+  grid-column: 1 / 4;
   grid-row: 5 / 6;
   text-align: center;
   background-color: var(--indigo-dye);
@@ -178,7 +178,7 @@ h3 {
   background-position: center;
 }
 .project2 {
-  grid-column: 2 / 3;
+  grid-column: 1 / 4;
   grid-row: 6 / 7;
   text-align: center;
   background-color: var(--indigo-dye);
@@ -187,9 +187,10 @@ h3 {
   background-image: url(images/mateusz-bajdak-npNhp50pZko-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
 .project3 {
-  grid-column: 2 / 3;
+  grid-column: 1 / 4;
   grid-row: 7 / 8;
   text-align: center;
   background-color: var(--indigo-dye);
@@ -198,15 +199,16 @@ h3 {
   background-image: url(images/zdenek-machacek-WXSJfseLjIk-unsplash\ \(1\).jpg);
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
 /*<!-- Skills Section and Icons. --> */
 /* I need to add all the icons for the skills */
 .toolbox-container {
-  grid-column: 2 / 3;
+  grid-column: 1 / 4;
   grid-row: 8 / 9;
   text-align: center;
   background-color: var(--indigo-dye);
-  padding-top: 20vh;
+  padding-top: 50px;
   opacity: 85%;
 }
 .toolbox {
@@ -214,13 +216,13 @@ h3 {
 }
 
 .contact-container {
-  grid-column: 2 / 3;
+  grid-column: 1 / 4;
   grid-row: 9 / 10;
   text-align: center;
   background-color: var(--indigo-dye);
-  padding-top: 20vh;
+  padding-top: 50px;
   opacity: 85%;
-  grid-column: 2 / 3;
+  grid-column: 1 / 4;
 }
 .contact {
   font-size: 25px;
@@ -235,7 +237,7 @@ h3 {
   padding: 10px;
 }
 .icon_container {
-  justify-content: space-around;
+  justify-content: space-between;
   background-color: var(--indigo-dye);
 }
 .contact-container .icon_container2 {
@@ -248,4 +250,49 @@ h3 {
 a{
   text-decoration: none;
 }
+
+/* Drop Down Menu */
+/* ************************ */
+/* ************************** */
+/* **************************** */
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
 
