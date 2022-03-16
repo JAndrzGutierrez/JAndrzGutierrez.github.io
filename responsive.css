@@ -98,6 +98,14 @@
   .projectsbox {
     grid-column: 1 / 4;
   }
+  .project2-preview{
+    width: 85vh;
+    height: auto;
+  }
+  .project3-preview{
+    width: 75vh;
+    height: auto;
+  }
   .toolbox-container {
     grid-column: 1 / 4;
     grid-row: 8 / 9;

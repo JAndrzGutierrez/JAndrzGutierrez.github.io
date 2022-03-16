@@ -145,6 +145,14 @@ p{
   grid-gap: 5px;
   opacity: 85%;
 }
+.project2-preview{
+  width: 40vh;
+  height: auto;
+}
+.project3-preview{
+  width: 40vh;
+  height: auto;
+}
 
 h3 {
   font-size: 33px;
@@ -173,9 +181,6 @@ h3 {
   background-color: var(--indigo-dye);
   font-size: 25px;
   opacity: 85%;
-  background-image: url(images/anastasia-mezenina-7DGdHT5LTl0-unsplash.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
 }
 .project2 {
   grid-column: 1 / 4;
@@ -184,10 +189,6 @@ h3 {
   background-color: var(--indigo-dye);
   font-size: 25px;
   opacity: 85%;
-  background-image: url(images/mateusz-bajdak-npNhp50pZko-unsplash.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
 }
 .project3 {
   grid-column: 1 / 4;
@@ -196,10 +197,7 @@ h3 {
   background-color: var(--indigo-dye);
   font-size: 25px;
   opacity: 85%;
-  background-image: url(images/zdenek-machacek-WXSJfseLjIk-unsplash\ \(1\).jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+ 
 }
 /*<!-- Skills Section and Icons. --> */
 /* I need to add all the icons for the skills */
